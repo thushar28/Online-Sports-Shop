@@ -7,5 +7,5 @@
 ### 1) Wait for few seconds or click again to sign-up after entering the credentials as it uses realtime database.
 
 ## Figma File Design File Link
-### https://www.figma.com/file/JzPAvinHiKrhPolB0WLMUj/Design-for-Online-Sports-Shop?node-id=0%3A1&t=LLiIZYOwsnk1oAZp-1
+### https://www.figma.com/proto/JzPAvinHiKrhPolB0WLMUj/Design-for-Online-Sports-Shop?page-id=0%3A1&node-id=1%3A2&viewport=458%2C321%2C0.39&scaling=scale-down-width
 
